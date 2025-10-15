@@ -1,0 +1,30 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/valueSet/1.0.0/schema.json",
+  "name": "Prod VS",
+  "variableOverrides": [
+    {
+      "name": "Source_Workspace_ID",
+      "value": "e98bce44-f809-4bd3-a543-21d65c653b7a"
+    },
+    {
+      "name": "Source_Lakehouse_ID",
+      "value": "14f46034-1bc0-436e-a523-8db559eddc20"
+    },
+    {
+      "name": "Destination_Lakehouse_ID",
+      "value": "5a952c52-28ca-4f5d-ad13-9f3238f01993"
+    },
+    {
+      "name": "Destination_Workspace_ID",
+      "value": "7a8f9381-2bfb-4c9f-ba1d-6b08ac72a982"
+    },
+    {
+      "name": "SourceTable_Name",
+      "value": "TestCopiedData"
+    },
+    {
+      "name": "DestinationTable_Name",
+      "value": "ProdCopiedData"
+    }
+  ]
+}

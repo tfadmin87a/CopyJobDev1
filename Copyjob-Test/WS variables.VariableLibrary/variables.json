@@ -1,0 +1,41 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/variables/1.0.0/schema.json",
+  "variables": [
+    {
+      "name": "Source_Lakehouse_ID",
+      "note": "",
+      "type": "String",
+      "value": "0bed5f86-eb10-4756-8535-87527515e224"
+    },
+    {
+      "name": "Source_Workspace_ID",
+      "note": "",
+      "type": "String",
+      "value": "4b957628-bfb5-4b48-b206-2fb5c4358963"
+    },
+    {
+      "name": "Destination_Lakehouse_ID",
+      "note": "",
+      "type": "String",
+      "value": "22c6057a-41fb-42b1-8d4f-71e7e5fa1b71"
+    },
+    {
+      "name": "Destination_Workspace_ID",
+      "note": "",
+      "type": "String",
+      "value": "460e1ef8-33d4-4878-bd99-5062ed598e22"
+    },
+    {
+      "name": "SourceTable_Name",
+      "note": "",
+      "type": "String",
+      "value": "sampledata_dimension_city"
+    },
+    {
+      "name": "DestinationTable_Name",
+      "note": "",
+      "type": "String",
+      "value": "DevCopiedData"
+    }
+  ]
+}

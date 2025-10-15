@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Dataflow",
+    "displayName": "NYC_Taxi_Dataflow"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7afbea99-0e03-9325-4b58-1120f3101fd3"
+  }
+}
